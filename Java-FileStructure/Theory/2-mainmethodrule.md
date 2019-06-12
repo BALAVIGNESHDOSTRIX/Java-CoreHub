@@ -1,4 +1,4 @@
-#Main Method rule
+# Main Method rule
     - We can declare many classes each class can have the main method
 
     Example:
