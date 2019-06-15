@@ -16,5 +16,10 @@
 
     - If the needed class is in the same directory means we dont need to import that
 
+    - Import Order is
+        1. packages
+        2. interface declarations
+        3. import statements
+
 # Note
     - World wide the Explicit Import is used during the development. because we should know the class where it is reside that is also good practice.
