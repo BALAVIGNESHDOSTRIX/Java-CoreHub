@@ -11,8 +11,8 @@ abstract class RT implements Interf{
     }
 }
 
-class RTS implements RT{
-    public int getVecwheel(){
+class RTS extends RT{
+    public int getVecLight(){
         return 8;
     }
 }
